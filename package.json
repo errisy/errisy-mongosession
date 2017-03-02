@@ -1,0 +1,21 @@
+{
+  "name": "errisy-mongosession",
+  "version": "1.0.1",
+  "description": "Use mongodb as session data storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sessionmiddle",
+    "mongodb"
+  ],
+    "dependencies": {
+      "errisy-server": "1.0.5",
+      "cookie": "0.3.1",
+      "errisy-rpc": "1.0.1",
+      "errisy-util": "1.0.0"
+  },
+  "author": "Zhenyu Shi",
+  "license": "ISC"
+}
